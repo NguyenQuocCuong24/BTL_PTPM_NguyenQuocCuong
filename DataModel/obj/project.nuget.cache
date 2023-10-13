@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8TNasmKAjwNhe0m3KRcw8altSfoRRgpekfxl1J5iOLnigjj9uB6a6f/D9jQfHNRBRAv3H9yWYzL1XUJPrBB56Q==",
+  "dgSpecHash": "HMdi4FYE8x9OMvEeTPLEJhtJGm4EkFs4TlxE7H41519KJPkHYUAT212SaBqZH84gvhfGZAwwf1Hw42rtk/gFyg==",
   "success": true,
-  "projectFilePath": "E:\\WebAPI\\Demo\\BanHang\\DataModel\\DataModel.csproj",
+  "projectFilePath": "E:\\WebAPI\\BTL-API-NGUYEN QUOC CUONG\\BT_PTPM_NguyenQuocCuong\\DataModel\\DataModel.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

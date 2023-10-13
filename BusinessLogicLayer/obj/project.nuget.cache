@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xTwfAfImUho4L6E02hi7YEVOGA9MHiUYMAygQ0wapUxBmOerRng7fGCfnY8vluPqrqC6YyLcaTUbnqZMkxT0Dg==",
+  "dgSpecHash": "KCul1jPX7VirTHJnA+2QlaIt+Zyx/QU1NhBNzdU2nC/EhnvePps7lUbdKXzGuxLweLmd9/IBXxZvoZB1AMdOFg==",
   "success": true,
-  "projectFilePath": "E:\\WebAPI\\Demo\\BanHang\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+  "projectFilePath": "E:\\WebAPI\\BTL-API-NGUYEN QUOC CUONG\\BT_PTPM_NguyenQuocCuong\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.1\\microsoft.extensions.configuration.6.0.1.nupkg.sha512",

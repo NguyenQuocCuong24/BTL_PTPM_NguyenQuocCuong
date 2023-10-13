@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\WebAPI\\Demo\\BanHang\\DataModel\\DataModel.csproj": {}
+    "E:\\WebAPI\\BTL-API-NGUYEN QUOC CUONG\\BT_PTPM_NguyenQuocCuong\\DataModel\\DataModel.csproj": {}
   },
   "projects": {
-    "E:\\WebAPI\\Demo\\BanHang\\DataModel\\DataModel.csproj": {
+    "E:\\WebAPI\\BTL-API-NGUYEN QUOC CUONG\\BT_PTPM_NguyenQuocCuong\\DataModel\\DataModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\WebAPI\\Demo\\BanHang\\DataModel\\DataModel.csproj",
+        "projectUniqueName": "E:\\WebAPI\\BTL-API-NGUYEN QUOC CUONG\\BT_PTPM_NguyenQuocCuong\\DataModel\\DataModel.csproj",
         "projectName": "DataModel",
-        "projectPath": "E:\\WebAPI\\Demo\\BanHang\\DataModel\\DataModel.csproj",
+        "projectPath": "E:\\WebAPI\\BTL-API-NGUYEN QUOC CUONG\\BT_PTPM_NguyenQuocCuong\\DataModel\\DataModel.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "E:\\WebAPI\\Demo\\BanHang\\DataModel\\obj\\",
+        "outputPath": "E:\\WebAPI\\BTL-API-NGUYEN QUOC CUONG\\BT_PTPM_NguyenQuocCuong\\DataModel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
